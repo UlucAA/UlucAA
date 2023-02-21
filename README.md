@@ -16,5 +16,5 @@
 <img src="https://github.com/UlucAA/UlucAA/blob/main/pepelurk.gif?raw=true" width="30">  ![Totals Hits](https://komarev.com/ghpvc/?username=UlucAA&style=flat&color=orange&label=PROFILE+VIEWS)<img src="https://github.com/UlucAA/UlucAA/blob/main/pepelurk.gif?raw=true" width="30">
 
 
-<img src="https://github.com/UlucAA/UlucAA/blob/main/pepebusiness.webp?raw=true" width="70"><a href="https://linkedin.com/in/behiculucacar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="behiculucacar" height="20" width="20" />
+
 
