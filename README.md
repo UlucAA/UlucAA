@@ -26,7 +26,7 @@
 		</a>  -->
     
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+<!-- ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 <table>
   <tr>
     <td align="center" width="96">
@@ -73,7 +73,7 @@
 		</a> 
       <br>Html
     </td>
-    </table>
+    </table> -->
    
 
 
